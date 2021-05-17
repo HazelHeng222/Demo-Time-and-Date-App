@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Demo Time and Date App</string>
+
+    <string name="butDisDate">Display Date</string>
+    <string name="butDisTime">Display Time</string>
+    <string name="butReset">Reset</string>
+
+
+</resources>
